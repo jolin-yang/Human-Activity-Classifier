@@ -76,6 +76,7 @@ Understanding human activity through smartphone sensors isn’t just a technical
 * One of the biggest challenges we had while working with the dataset was having a limited understanding of the scientific terms in the dataset, especially when we were exploring its features, and what exactly each of them represented. The dataset's README was helpful in clearing up some of our confusion, we also conducted our own outside research we did to gain a more thorough understanding of the dataset and its features. 
 
 
+
 **Exploratory Data Analysis (EDA) Visualizations**
 <img width="736" height="718" alt="image" src="https://github.com/user-attachments/assets/b1826e33-5043-4052-8153-97868f2e6901" />
 
