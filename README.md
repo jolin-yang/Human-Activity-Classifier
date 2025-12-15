@@ -21,7 +21,7 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
 
 - Trained, tuned, and evaluated 4 different machine learning models (Logistic Regression, K-NN, Random Forest, Simple Neural Network) to predict human physical activity.
 - Gained exposure to time-series data, multiclass classification, sensor data, and windowing techniques.
-- Achieved 93% accuracy, ~93% precision, and ~93% recall for the (tuned) Logistic Regression model, demonstrating strong predictive performance for healthcare-related applications.
+- Achieved 93% accuracy, ~93% precision, and ~93% recall for the (tuned) Logistic Regression model, demonstrating strong predictive performance for healthcare and wellness-related applications.
 - Generated actionable health insights to inform data-driven decision-making in healthcare contexts.
 - Gained hands-on experience across the full end-to-end machine learning pipeline, from EDA to model deployment. 
   
@@ -46,7 +46,7 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
   - Relevance to our project:
     - **Dropbox Dash**: A parallel to Dropbox’s own AI that understands and anticipates user intent from sequences of actions across files, messages, and tools.
     - Both Dropbox Dash and our classifiers leverage temporal pattern recognition to enable intelligent, proactive assistance.
-- Project Goal: Turn raw, messy sensor data (accelerometer/gyroscope data) into clear labels (ie. walking, sitting, running, laying) and extracting useful, action-ready health insights. 
+- **Project Goal**: Turn raw, messy sensor data (accelerometer/gyroscope data) into clear labels (ie. walking, sitting, running, laying) and extracting useful, action-ready health insights. 
 
 
  - The real-world significance of the problem and the potential impact of your work
