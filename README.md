@@ -30,9 +30,7 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
 ## 👩🏽‍💻 **Setup and Installation**
 
 * How to clone the repository
-* How to install dependencies
-* How to set up the environment
-* How to access the dataset(s)
+* To access the dataset, navigate to the directory titled 'UCI-HAR dataset' or download it at https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones. 
 * How to run the notebook or scripts
 
 ---
