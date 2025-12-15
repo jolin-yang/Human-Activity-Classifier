@@ -14,19 +14,18 @@
 ---
 ## 📌 **Objective**
 
-Use smartphone time-series accelerometer and gyroscope data to build a supervised ML classifier that predicts human movement (like sitting, walking, laying down, etc.), transforming raw sensor data into meaningful health insights.
+Use smartphone time-series accelerometer and gyroscope data to build a supervised ML classifier that predicts human physical movement (like sitting, walking, laying down, etc.), transforming raw sensor data into meaningful health insights.
 
 
 
 ## 🎯 **Project Highlights**
 
-**Example:**
-
-- Developed a machine learning model using `[model type/technique]` to address `[challenge project task]`.
-- Achieved `[key metric or result]`, demonstrating `[value or impact]` for `[host company]`.
-- Generated actionable insights to inform business decisions at `[host company or stakeholders]`.
-- Implemented `[specific methodology]` to address industry constraints or expectations.
-
+- Trained, tuned, and evaluated 4 different machine learning models (Logistic Regression, K-NN, Random Forest, Simple Neural Network) to predict human physical activity.
+- Gained exposure to time-series data, multiclass classification, sensor data, and windowing techniques.
+- Achieved 93% accuracy, ~93% precision, and ~93% recall for the (tuned) Logistic Regression model, demonstrating strong predictive performance for healthcare-related applications.
+- Generated actionable health insights to inform business decisions at healthcare companies.
+- Gained hands-on experience across the full end-to-end machine learning pipeline, from EDA to model deployment. 
+  
 ---
 
 ## 👩🏽‍💻 **Setup and Installation**
