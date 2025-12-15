@@ -157,6 +157,10 @@ Figure: A heatmap displaying the correlation between the first 30 features in th
 
 Figure: The confusion matrix for the tuned Logistic Regression model.      
 
+
+<img width="1856" height="650" alt="image" src="https://github.com/user-attachments/assets/f268283a-5d10-41be-a7b6-fb06f78c43c5" />
+Figure: The visualizations of accuracy and loss for the tuned Simple Neural Network model.      
+
 ---
 
 ## 🚀 **Next Steps**
