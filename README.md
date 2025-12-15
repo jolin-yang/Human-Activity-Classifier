@@ -17,20 +17,17 @@
 Use smartphone time-series accelerometer and gyroscope data to build a supervised ML classifier that predicts human physical movement (like sitting, walking, laying down, etc.), transforming raw sensor data into meaningful health insights.
 
 
-
 ## 🎯 **Project Highlights**
 
 - Trained, tuned, and evaluated 4 different machine learning models (Logistic Regression, K-NN, Random Forest, Simple Neural Network) to predict human physical activity.
 - Gained exposure to time-series data, multiclass classification, sensor data, and windowing techniques.
 - Achieved 93% accuracy, ~93% precision, and ~93% recall for the (tuned) Logistic Regression model, demonstrating strong predictive performance for healthcare-related applications.
-- Generated actionable health insights to inform business decisions at healthcare companies.
+- Generated actionable health insights to inform data-driven decision-making in healthcare contexts.
 - Gained hands-on experience across the full end-to-end machine learning pipeline, from EDA to model deployment. 
   
 ---
 
 ## 👩🏽‍💻 **Setup and Installation**
-
-**Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
 
 * How to clone the repository
 * How to install dependencies
