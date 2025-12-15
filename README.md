@@ -69,8 +69,14 @@ Understanding human activity through smartphone sensors isn’t just a technical
   - Dataset was split into test and train folders, and most files were in the form of .txt files instead of .csv files we were most used to working with.
   - Contained no missing values
   - Had some class imbalance (ie. the "LAYING” and “STANDING" classes were more prevalent in the dataset compared to other classes)
-  
-* One of the biggest challenges we had while working with the dataset was not having a 
+
+* We didn't need to address missing values because the dataset contained none. 
+* Although there was some class imbalance in the dataset, as mentioned above, we ultimately chose to leave the classes as is since the classes were only slightly unbalanced - in which we considered the imbalance to be negligible - and our baseline Logistic Regression model still performed relatively well. However, after finalizing our models and having some time leftover, we decided to test out different techniques to address the class imbalance and see the difference it had (if any) on the performance of the models.
+
+* One of the biggest challenges we had while working with the dataset was not having a
+* 
+
+
 
 **Exploratory Data Analysis (EDA) Visualizations**
 
