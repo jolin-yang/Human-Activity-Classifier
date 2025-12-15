@@ -82,7 +82,7 @@ Understanding human activity through smartphone sensors isn’t just a technical
 
 Figure: A bar plot displaying the distribution of Activity classes in the training dataset. 
 
-
+<img width="587" height="455" alt="image" src="https://github.com/user-attachments/assets/18ce2c4f-f8c1-4c09-84ee-a90392319c85" />    
 
 ---
 
