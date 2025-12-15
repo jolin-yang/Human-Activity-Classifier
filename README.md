@@ -65,10 +65,8 @@ Understanding human activity through smartphone sensors isn’t just a technical
 
 ## 📊 **Data Exploration**
 
-**You might consider describing the following (as applicable):**
-
-* **Dataset**: UCI-HAR (Human Activity Recognition Using Smartphones) dataset
-  - Split into test and train folders, and most files were in the form of .txt files instead of .csv files we were most used to working with.
+* **Dataset: UCI-HAR (Human Activity Recognition Using Smartphones) dataset**
+  - Dataset was split into test and train folders, and most files were in the form of .txt files instead of .csv files we were most used to working with.
   - Contained no missing values
   - Had some class imbalance (ie. the "LAYING” and “STANDING" classes were more prevalent in the dataset compared to other classes)
   
