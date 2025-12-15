@@ -8,7 +8,7 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
 
 ### 👥 **Team Members**
 
-| Name             | GitHub Handle | Contribution                                                             |
+| Name             | GitHub Handle | Contributions                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
 | Jolin Yang    | @jolin-yang | EDA, feature engineering, subsampling (to handle class imbalance), Logisitic Regression model training and evaluation |
 | Jocelyn Chan   | @jocelynchan042     | EDA, feature engineering, oversampling (to handle class imbalance), K-NN model training and evaluation |
