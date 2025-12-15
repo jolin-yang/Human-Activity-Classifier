@@ -91,6 +91,9 @@ Figure: A bar plot displaying the distribution of Activity classes in the traini
 
 <img width="1085" height="790" alt="image" src="https://github.com/user-attachments/assets/b7146490-2f04-496f-b384-972c59ea4e8e" />    
 
+Figure: A heatmap displaying the correlation between the first 30 features in the dataset.      
+
+
 ---
 
 ## 🧠 **Model Development**
