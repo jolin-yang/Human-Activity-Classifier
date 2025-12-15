@@ -41,10 +41,13 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
 
 - This was our Fall AI Studio Project for the fall portion of the Break Through Tech Program. 
 - In this project, we were partnered with **Dropbox**, and our Challenge Advisor was **Ameya Bhatawdekar**.
-- - **Dropbox**: A cloud workspace designed for storing, sharing, and collaborating on files in real-time.
+  - **Dropbox**: A cloud workspace designed for storing, sharing, and collaborating on files in real-time.
+  - Relevance:
+    - **Dropbox Dash**: A parallel to Dropbox’s own AI that understands and anticipates user intent from sequences of actions across files, messages, and tools. Both systems leverage temporal pattern recognition to enable intelligent, proactive assistance.
 
 
-- - The real-world significance of the problem and the potential impact of your work
+
+ - The real-world significance of the problem and the potential impact of your work
 
 ---
 
