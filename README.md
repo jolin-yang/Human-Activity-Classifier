@@ -160,12 +160,20 @@ Figure: The confusion matrix for the tuned Logistic Regression model.
 ---
 
 ## 🚀 **Next Steps**
-Consider ensemble models to improve accuracy
 
-Use cross validation to make sure the model is consistent and reliable
-
-Deploy machine learning model on a user-friendly interface 
-
+- Consider ensemble models to improve accuracy.
+  
+- **Deploy machine learning model on a user-friendly interface.**
+  1. Finalize model and pre-processing: use our Logistic Regression model
+  2. Package model: save training pipeline for serialization
+  3. Build server-based inference pipeline: API
+     - Easier to update model versions and centralized monitoring
+     - Python FastAPI or Flask app → predict endpoint
+  4. Define expected input schema: what the API requires to match trained data
+  5. Implement real-time preprocessing: convert raw signals
+  6. Containerization: use Docker
+  7. Deploy to cloud platform: becomes a public service
+     - Use Google Cloud Run → beginner-friendly
 
 
 * What are some of the limitations of your model?
