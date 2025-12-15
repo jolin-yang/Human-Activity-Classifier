@@ -31,7 +31,10 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
 
 * To clone the repository, open the VSCode terminal and run the following commands:
   - **git clone** https://github.com/jolin-yang/ml-activity-classification-dropbox.git
-  - **cd ml-activity-classification-dropbox**ctory titled 'UCI-HAR dataset' or download it here at https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones. 
+  - **cd ml-activity-classification-dropbox**
+
+* To access the dataset, navigate to the directory titled 'UCI-HAR dataset' or download it here at https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones. 
+
 * To install Jupypter Notebooks, run the following command in the terminal:
   - **pip install notebook**
 * In this project, we distributed the different tasks/steps among our five team members and created separate notebooks for each task to maintain modularity and organization. As a result, all of the code for this project lives in separate notebooks instead of just one.   
