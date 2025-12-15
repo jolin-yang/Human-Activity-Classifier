@@ -67,7 +67,8 @@ Understanding human activity through smartphone sensors isn’t just a technical
 
 * **Dataset: UCI-HAR (Human Activity Recognition Using Smartphones) dataset**
   - Dataset was split into test and train folders, and most files were in the form of .txt files instead of .csv files we were most used to working with.
-      - 10,299 rows and 561 features
+      - 561 features
+      - 10,299 rows
         - Training set: 7,352 rows
         - Test set: 2,947 rows
  
