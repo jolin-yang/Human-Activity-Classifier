@@ -12,11 +12,11 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| Taylor Nguyen    | @taylornguyen | Data exploration, visualization, overall project coordination            |
-| Jordan Ramirez   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
-| Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
-| Priya Mehta      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
-| Chris Park       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
+| Jolin Yang    | @jolin-yang | EDA, feature engineering, subsampling (to handle class imbalance), Logisitic Regression model training and evaluation |
+| Jocelyn Chan   | @jocelynchan042     | EDA, feature engineering, oversampling (to handle class imbalance), K-NN model training and evaluation |
+| Rebecca Michel     | @rebeccamichel1266  | EDA, feature engineering, Random Forest model training and evaluation                 |
+| Ayoub Sougrati      | @asougrati       | EDA, feature engineering, class weighting (to handle class imbalance), hyperparameter tuning  |
+| Ekin Chakma       | @ekin2038    | EDA, feature engineering, hyperparameter tuning, Simple Neural Network model training and optimization           |
 
 ---
 
