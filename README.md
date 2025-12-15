@@ -128,6 +128,17 @@ Figure: A heatmap displaying the correlation between the first 30 features in th
 
   - **561 total features → 131 final features ≈ 77% decrease in featureset**
 
+  At the end of our project, we had some time leftover, so we decided to see how the models would have performed had we only used one round of feature engineering as opposed to two.
+  - One Round of Feature Engineering:
+    - Used entire dataset, undivided
+    - Reduced features by < 1%
+    - Found that more features -> better accuracy
+
+    - Model Performance
+      - Logistic Regression: 96.2% accuracy
+      - Simple Neural Network: 94.9% accuracy
+
+
 * **Hyperparameter Tuning**
   - Used GridSearch CV
     
@@ -164,6 +175,8 @@ Figure: The visualizations displaying the relationship between epoch and accurac
 ## 🚀 **Next Steps**
 
 - Consider ensemble models to improve accuracy.
+  
+- Retraining all our models using the features from one round of feature engineering. 
   
 - **Deploy machine learning model on a user-friendly interface.**
   1. Finalize model and pre-processing: use our Logistic Regression model
