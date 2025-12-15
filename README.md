@@ -175,10 +175,8 @@ Figure: The confusion matrix for the tuned Logistic Regression model.
   7. Deploy to cloud platform: becomes a public service
      - Use Google Cloud Run → beginner-friendly
 
-
-* What are some of the limitations of your model?
-* What would you do differently with more time/resources?
-* What additional datasets or techniques would you explore?
+**Limitation:**
+- Appears to have trouble distinguishing between walking upstairs versus walking downstairs. 
 
 ---
 
