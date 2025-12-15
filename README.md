@@ -160,8 +160,13 @@ Figure: The confusion matrix for the tuned Logistic Regression model.
 ---
 
 ## 🚀 **Next Steps**
+Consider ensemble models to improve accuracy
 
-**You might consider addressing the following (as applicable):**
+Use cross validation to make sure the model is consistent and reliable
+
+Deploy machine learning model on a user-friendly interface 
+
+
 
 * What are some of the limitations of your model?
 * What would you do differently with more time/resources?
@@ -170,10 +175,11 @@ Figure: The confusion matrix for the tuned Logistic Regression model.
 ---
 
 ## 📝 **License**
-This project is licensed under the MIT License.
+N/A
 
 ---
 
-## 🙏 **Acknowledgements** (Optional but encouraged)
+## 🙏 **Acknowledgements** 
 
-Thank your Challenge Advisor, host company representatives, TA, and others who supported your project.
+Special thanks to our Challenge Advisor Ameya, our Break Through Tech TA Andrii, and of course, the entire Break Through Tech Team (especially Maxime and Chu) for making this incredible opportunity possible! We truly appreciate the time and effort you all have dedicated into supporting and guiding us throughout each step of this project; it truly means a lot to us. 
+
