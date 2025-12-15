@@ -107,19 +107,23 @@ Figure: A heatmap displaying the correlation between the first 30 features in th
 
 ## 🧠 **Model Development**
 
-* Models Used:
+* **Models Used**:
   - Logistic Regression
   - K-NN
   - Random Forest
   - Simple Neural Network
     
-* Feature Engineering: 
+* **Feature Engineering**: 
   - Performed two rounds of feature engineering
     - 1st (prelimary) round involved evenly splitting up the 561 features  
-  - the 1st (preliminary) round 
-* selection and Hyperparameter tuning strategies
-* Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
-
+  - the 1st (preliminary) round
+    
+* **Hyperparameter tuning**
+  - Used GridSearch CV
+    
+* **Training setup**
+  - 70% of data for training/validation, 30% of data for testing
+  - Baseline performance with Logistic Regression model: ~93% accuracy
 
 ---
 
