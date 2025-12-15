@@ -53,7 +53,13 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
   - Relevance to our project:
     - **Dropbox Dash**: A parallel to Dropbox’s own AI that understands and anticipates user intent from sequences of actions across files, messages, and tools.
     - Both Dropbox Dash and our classifiers leverage temporal pattern recognition to enable intelligent, proactive assistance.
-- **Project Goal**: Turn raw, messy sensor data (accelerometer/gyroscope data) into clear labels (ie. walking, sitting, running, laying) and extracting useful, action-ready health insights.    
+- **Project Goals**: Turn raw, messy sensor data (accelerometer/gyroscope data) into clear labels (ie. walking, sitting, running, laying) and extracting useful, action-ready health insights.
+  - Use the raw smartphone sensor time-series data (accelerometer/gyroscope data) from the UCI HAR dataset to build a clean dataset.
+  - Perform feature engineering to help distinguish different activities.
+  - Train and evaluate supervised classification models to predict activity type.
+  - Perform hyperparameter tuning on each model and evaluate its performance afterwards with the appropriate metrics (ie. accuracy, f-1 score, confusion matrix).
+  - Determine the best-performing model.
+  - Build a smooth setup for fast, low-latency deployment.
 
 **Why this matters**...  
 
