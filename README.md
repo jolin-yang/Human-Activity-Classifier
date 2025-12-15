@@ -39,11 +39,12 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
 
 ## 🏗️ **Project Overview**
 
-**Describe:**
+- This was our Fall AI Studio Project for the fall portion of the Break Through Tech Program. 
+- In this project, we were partnered with **Dropbox**, and our Challenge Advisor was **Ameya Bhatawdekar**.
+- - **Dropbox**: A cloud workspace designed for storing, sharing, and collaborating on files in real-time.
 
-- How this project is connected to the Break Through Tech AI Program
-- Your AI Studio host company and the project objective and scope
-- The real-world significance of the problem and the potential impact of your work
+
+- - The real-world significance of the problem and the potential impact of your work
 
 ---
 
