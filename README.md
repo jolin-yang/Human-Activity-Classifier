@@ -163,7 +163,7 @@ Figure: A heatmap displaying the correlation between the first 30 features in th
 | Optimized Logistic Regression Classifier           | 0.925 |  0.93 | 0.92 | 0.92 |
 | Optimized K-NN Classifier                 | 0.85 |  0.87 | 0.85 |  0.85 |
 | Optimized Random Forest Classifier               | 0.91 |  0.91 | 0.91 | 0.91 |
-| Optimized Simple Neural Network Classifier                 | 0.85 |  --  | -- | -- |
+| Optimized Simple Neural Network Classifier                 | 0.85 |     --  |   -- |    -- |
 #### **Best-performing model: Logistic Regression**
 
 **Key Findings + Takeaways:**
